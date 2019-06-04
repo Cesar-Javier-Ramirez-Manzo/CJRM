@@ -1,0 +1,1 @@
+var longEquation = 4 + 6 + 5 * (9 - 100 / 10);
