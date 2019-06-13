@@ -1,0 +1,33 @@
+Relacion de los nombres de los htm con los que tienen
+
+euros <-> dolares ---------eur-dol 
+grados K <-> C-------------c-k
+km <-> millas--------------km-ml
+galones <-> litros---------gl-l
+radianes <-> grados--------rd-g
+
+10dec------------random 1-10
+10int -----------random
+Fraction --------fraccion
+3-sum------------3-sum
+nlp+htm----------nlp
+
+
+
+
+
+
+-----Important----
+String.js contains these{
+
+chars()
+words()
+sentences()
+paragraphs()
+
+}
+
+
+
+
+
